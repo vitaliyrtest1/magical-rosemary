@@ -14,6 +14,10 @@ seo:
       value: /images/10.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: Test
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: post
 ---
