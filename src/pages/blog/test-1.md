@@ -11,7 +11,7 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: /images/10.jpg
+      value: /images/1.png
       keyName: property
       relativeUrl: true
     - name: 'og:title'
